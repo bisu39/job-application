@@ -12,7 +12,7 @@ This is a sample from page for data submition build with html and css. This page
 
 ## 🚀 Live Preview
 
-[Click here to view the live site](https://bisu39.github.io/Food_web/)
+[Click here to view the live site](https://bisu39.github.io/job-application/)
 
 ## 📁 Folder Structure
 
@@ -28,7 +28,7 @@ This is a sample from page for data submition build with html and css. This page
 
 ## 📌 How to Use
 
-1. Clone the repository: https://github.com/bisu39/Food_web.git
+1. Clone the repository: https://github.com/bisu39/job-application.git
 
 2. Open `index.html` in your browser to view the site.
 
